@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Class-And-4-OOP-Principles/1.0.0": {
+        "runtime": {
+          "Class-And-4-OOP-Principles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class-And-4-OOP-Principles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

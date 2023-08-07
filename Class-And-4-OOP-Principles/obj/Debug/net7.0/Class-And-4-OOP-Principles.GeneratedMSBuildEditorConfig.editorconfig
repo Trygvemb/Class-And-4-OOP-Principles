@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Class_And_4_OOP_Principles
+build_property.ProjectDir = /Users/trygvebechsgaard/Desktop/skole/2 semester/Programmeering og teknologi/VS-DEV/Class-And-4-OOP-Principles/Class-And-4-OOP-Principles/
